@@ -1,0 +1,14 @@
+{
+  "name": "fis-command-doc",
+  "version": "0.0.1",
+  "description": "output api html",
+  "main": "doc.js",
+  "dependencies": {
+    "yuidocjs": "0.3.50"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaven.D",
+  "license": "BSD-2-Clause"
+}
