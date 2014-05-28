@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "output api html",
   "main": "doc.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaven85/fis-command-doc"
+  },
   "dependencies": {
     "yuidocjs": "0.3.50"
   },
