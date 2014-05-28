@@ -16,4 +16,8 @@ settings: {
 	}
 }
 ```
-
+##安装方法##
+由于未集成进FIS(后续与瓶神商量看是否加进)，因此需要在FIS的安装目录进行安装
+```
+npm install fis-command-doc
+```
